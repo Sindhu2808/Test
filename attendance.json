@@ -1,0 +1,145 @@
+[
+  {
+    "ID": "",
+    "Name": "",
+    "Year": "",
+    "Section": "",
+    "CourseCode": "",
+    "Subject": "",
+    "NumberOfClassesConducted": "",
+    "NumberOfClassesPresent": "",
+    "NumberOfClassesAbsent": ""
+  },
+  {
+    "ID": 190030905,
+    "Name": "Santhosh",
+    "Year": 2,
+    "Section": 9,
+    "CourseCode": "19TS2201",
+    "Subject": "PFSD",
+    "NumberOfClassesConducted": 20,
+    "NumberOfClassesPresent": 18,
+    "NumberOfClassesAbsent": 2
+  },
+  {
+    "ID": 190030590,
+    "Name": "Priya",
+    "Year": 2,
+    "Section": 4,
+    "CourseCode": "19TS2201",
+    "Subject": "PFSD",
+    "NumberOfClassesConducted": 20,
+    "NumberOfClassesPresent": 15,
+    "NumberOfClassesAbsent": 5
+  },
+  {
+    "ID": 190030711,
+    "Name": "Bharath",
+    "Year": 2,
+    "Section": 2,
+    "CourseCode": "19TS2201",
+    "Subject": "PFSD",
+    "NumberOfClassesConducted": 20,
+    "NumberOfClassesPresent": 18,
+    "NumberOfClassesAbsent": 2
+  },
+  {
+    "ID": 190031834,
+    "Name": "Sindhu",
+    "Year": 2,
+    "Section": 4,
+    "CourseCode": "19TS2201",
+    "Subject": "PFSD",
+    "NumberOfClassesConducted": 20,
+    "NumberOfClassesPresent": 18,
+    "NumberOfClassesAbsent": 2
+  },
+  {
+    "ID": 190032005,
+    "Name": "Nitya",
+    "Year": 2,
+    "Section": 7,
+    "CourseCode": "19TS2201",
+    "Subject": "PFSD",
+    "NumberOfClassesConducted": 20,
+    "NumberOfClassesPresent": 12,
+    "NumberOfClassesAbsent": 8
+  },
+  {
+    "ID": 190030929,
+    "Name": "Rahul",
+    "Year": 2,
+    "Section": 8,
+    "CourseCode": "19TS2201",
+    "Subject": "PFSD",
+    "NumberOfClassesConducted": 20,
+    "NumberOfClassesPresent": 19,
+    "NumberOfClassesAbsent": 1
+  },
+  {
+    "ID": 190030598,
+    "Name": "Vivek",
+    "Year": 2,
+    "Section": 7,
+    "CourseCode": "19TS2201",
+    "Subject": "PFSD",
+    "NumberOfClassesConducted": 20,
+    "NumberOfClassesPresent": 0,
+    "NumberOfClassesAbsent": 20
+  },
+  {
+    "ID": 190030686,
+    "Name": "Shanmukh",
+    "Year": 2,
+    "Section": 10,
+    "CourseCode": "19TS2201",
+    "Subject": "PFSD",
+    "NumberOfClassesConducted": 20,
+    "NumberOfClassesPresent": 19,
+    "NumberOfClassesAbsent": 1
+  },
+  {
+    "ID": 190031748,
+    "Name": "Rakshan",
+    "Year": 2,
+    "Section": 16,
+    "CourseCode": "19TS2201",
+    "Subject": "PFSD",
+    "NumberOfClassesConducted": 20,
+    "NumberOfClassesPresent": 10,
+    "NumberOfClassesAbsent": 10
+  },
+  {
+    "ID": 190030051,
+    "Name": "Hari",
+    "Year": 2,
+    "Section": 18,
+    "CourseCode": "19TS2201",
+    "Subject": "PFSD",
+    "NumberOfClassesConducted": 20,
+    "NumberOfClassesPresent": 20,
+    "NumberOfClassesAbsent": 0
+  },
+  {
+    "ID": 190031947,
+    "Name": "Ananya",
+    "Year": 2,
+    "Section": 9,
+    "CourseCode": "19TS2201",
+    "Subject": "PFSD",
+    "NumberOfClassesConducted": 20,
+    "NumberOfClassesPresent": 17,
+    "NumberOfClassesAbsent": 3
+  },
+  {
+    "ID": 190031465,
+    "Name": "Dhanu Sri",
+    "Year": 2,
+    "Section": 11,
+    "CourseCode": "19TS2201",
+    "Subject": "PFSD",
+    "NumberOfClassesConducted": 20,
+    "NumberOfClassesPresent": 18,
+    "NumberOfClassesAbsent": 2
+  }
+]
